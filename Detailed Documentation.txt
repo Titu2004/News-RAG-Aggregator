@@ -1,0 +1,13 @@
+The News Article Aggregator using Simple RAG is a beginner-friendly Python project that collects live news articles from multiple online sources using RSS feeds.
+
+The system performs:
+
+News collection from different sources
+
+Topic grouping based on keywords
+
+Query-based retrieval of the most relevant article
+
+Simple summarization of retrieved news
+
+This project demonstrates the core concept of Retrieval-Augmented Generation (RAG) in a simplified manner by retrieving relevant information before generating an output.
